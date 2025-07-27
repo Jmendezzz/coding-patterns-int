@@ -1,4 +1,4 @@
-package com.jmendez.two_pointers;
+package com.jmendez.leet_code.two_pointers;
 
 public class PairSum {
     public static void main(String[] args) {
